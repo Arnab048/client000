@@ -1,0 +1,131 @@
+.headSection{
+    background-color: #F0FFF0;
+}
+.getStarted{
+    background-color: #F0FFF0;
+    margin-bottom: 100px;
+}
+.claims{
+    margin-bottom: 90px;
+}
+
+.signInButton{
+    background-color:#21B573;
+    color:white;
+    height: 43px;
+    width: 104px;
+    border: none;
+    border-radius: 33px;
+    padding:12px, 28px, 12px, 28px;
+    margin-left: 20px;
+}
+.buyCourse{
+    background-color:#21B573;
+    color:white;
+    height: 43px;
+    width: 104px;
+    border: none;
+    border-radius: 33px;
+    padding:8px, 28px, 8px, 28px;
+    margin-top: 20px;
+}
+
+.buyCourse:hover{
+    box-shadow: 5px 5px 25px green;
+}
+.signInButton:hover{
+    box-shadow: 5px 5px 25px green;
+}
+
+.ajaira{
+    color:black;
+}
+
+.img{
+    width:554px;
+    height: 346px;
+}
+.getStartedImg{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.p1{
+    color:orangered;
+}
+.p2{
+    color:gray;
+}
+.p3{
+    color:black;
+    width:400px;
+}
+.anys{
+    color:green;
+}
+.getStartedText{
+    margin-top: 120px;
+    margin-bottom: 120px;
+    padding-left: 60px;
+}
+.bigText{
+    font-weight: bolder;
+}
+
+.dot img{
+    height: 60px;
+    width:60px;
+}
+
+.dots{
+    background-color: #F8FFFB;
+
+    width: 270px;
+    height: 270px;
+    border-radius: 10px;
+    padding-top: 55px;
+}
+.dots:hover{
+    background-color: white;
+    width: 280px;
+    height: 280px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 25px grey;
+}
+
+.ccc{
+    align-items: center;
+}
+
+.courseAnouncement{
+    margin-bottom: 80px;
+}
+.testimonialAnouncement{
+    margin-bottom: 80px;
+}
+
+.cardStyle{
+    border:none;
+}
+
+.cardStyle:hover{
+    border-radius: 10px;
+    box-shadow: 5px 5px 25px grey;
+}
+
+.courses{
+    margin-bottom: 150px;
+}
+
+.testimonial{
+    margin-bottom: 100px;
+}
+
+.txt{
+    background-color: #282531;
+    color:white;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+
